@@ -15,9 +15,10 @@
 <h3 align="center">I am a Information Technology's (IT) student at King Mongkut's Institute of Technology Ladkrabang (KMITL)</h3>
 
 - 🔭 I’m currently working on [Clone-Jobify](https://github.com/pithawatnuckong/Clone-Jobify)
-
 - 🌱 I’m currently learning **Docker AWS OpenCV**
-<!-- Programming -->
+- 📫 How to reach me: **pithawatnuckong@gmail.com**
+
+<!-- Programming Language-->
 <h2>Programming language:</h2>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 	<img
