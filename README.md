@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋,&nbsp;I'm Pithawat</h1>
 <h3 align="center">I am a third year student of information technology (IT) at King Mongkut's Institute of Technology Ladkrabang (KMITL)</h3>
+<br/>
 
-- 🔭 I’m currently working on [Clone-Jobify](https://github.com/pithawatnuckong/Clone-Jobify)
-- 📫 How to reach me: **pithawatnuckong@gmail.com**
+<p align="center">
+- 🔭 I’m currently working on <a href="https://github.com/pithawatnuckong/Clone-Jobify"> Clone-Jobify </a>
+<br />
+- 📫 How to reach me: <a> pithawatnuckong@gmail.com </a>
+<br />
+- 💬 How to talk with me: <a href="https://github.com/pithawatnuckong/pithawatnuckong/issues">here</a>
+</p>
 
 <!--  Current learning-->
 <h2>Current learning:</h2>
