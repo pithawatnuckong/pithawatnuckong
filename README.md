@@ -5,7 +5,7 @@
 <p align="center">
 - 🔭 I’m currently working on <a href="https://github.com/pithawatnuckong/Clone-Jobify"> Clone-Jobify </a>
 <br />
-- 📫 How to reach me: <a> pithawatnuckong@gmail.com </a>
+- 📫 How to reach me: <a href="mailto:pithawatnuckong@gmail.com"> pithawatnuckong@gmail.com </a>
 <br />
 - 💬 How to talk with me: <a href="https://github.com/pithawatnuckong/pithawatnuckong/issues">here</a>
 </p>
