@@ -1,22 +1,33 @@
-<!-- ### Hi there Pithawat 👋
-
-
-<!-- **pithawatnuckong/pithawatnuckong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on <a href="https://github.com/pithawatnuckong/Clone-Jobify" target="_blank">Clone-Jobify</a> -->
-<!-- - 🔭 I’m currently working on [Clone-Jobify](https://github.com/pithawatnuckong/Clone-Jobify) -->
-<!-- - 🌱 I’m currently learning **Docker AWS** -->
-
-
-
-<h1 align="center">Hi 👋, I'm Pithawat</h1>
-<h3 align="center">I am a Information Technology's (IT) student at King Mongkut's Institute of Technology Ladkrabang (KMITL)</h3>
+<h1 align="center">Hi 👋,&nbsp;I'm Pithawat</h1>
+<h3 align="center">I am a third year student of information technology (IT) at King Mongkut's Institute of Technology Ladkrabang (KMITL)</h3>
 
 - 🔭 I’m currently working on [Clone-Jobify](https://github.com/pithawatnuckong/Clone-Jobify)
-- 🌱 I’m currently learning **Docker AWS OpenCV**
 - 📫 How to reach me: **pithawatnuckong@gmail.com**
+
+<!--  Current learning-->
+<h2>Current learning:</h2>
+<a href="https://www.docker.com/" target="_blank"  rel="noreferrer">
+	<img
+	     src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+	     alt="docker"
+	     width="50"
+	     height="50" />
+</a>&ensp;&ensp;
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<img
+     src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"
+     alt="opencv"
+     width="40"
+     height="40" />
+</a>&ensp;&ensp;
+<a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&s_kwcid=AL!4422!3!562063379424!e!!g!!aws&ef_id=CjwKCAiAioifBhAXEiwApzCztuXd-QxEQQiepQ_58ClnB9Ils7kTCIOX2U2Fox0WgDASPcKFYkNdFRoCx88QAvD_BwE:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer">
+<img
+     src="https://cdn.iconscout.com/icon/free/png-256/amazon-aws-3628617-3029842.png"
+     alt="aws"
+     width="45"
+     height="45" />
+</a>&ensp;&ensp;
+	<br />
 
 <!-- Programming Language-->
 <h2>Programming language:</h2>
@@ -27,7 +38,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -35,14 +46,14 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 		alt="javascript"
 		width="45"
 		height="45" />
-</a>
+</a>&ensp;&ensp;
 
 <br />
 <!-- Frontend  -->
@@ -55,7 +66,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -63,7 +74,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -71,14 +82,14 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 		alt="html5"
 		width="45"
 		height="45" />
-</a>
+</a>&ensp;&ensp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -86,7 +97,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 	<img
@@ -95,7 +106,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 	<img
 		src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -103,7 +114,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 
 <br />
 <!-- Backend -->
@@ -115,7 +126,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 	<img
 		src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -123,7 +134,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
 	<img
 		src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
@@ -131,7 +142,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -139,7 +150,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 
 <br />
 <!-- Mobile App Development -->
@@ -153,7 +164,7 @@
 		width="45"
 		height="45"
 	/>
-</a>
+</a>&ensp;&ensp;
 <br />
 <!--  Database -->
 <h2>Database:</h2>
@@ -164,22 +175,11 @@
 		width="45"
 		height="45" 
        />
-  </a>
+  </a>&ensp;&ensp;
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-	<br />
-	<!-- Devops -->
-	<h2>Devops:</h2>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-	   <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-			alt="docker"
-			width="45"
-			height="45"
-		/>
-	</a>
+  </a>&ensp;&ensp;
 	<br />
 	<!-- Software -->
 	<h2>Software:</h2>
@@ -190,7 +190,7 @@
 			width="45"
 			height="45"
 		/>
-	</a>
+	</a>&ensp;&ensp;
 	<a href="https://postman.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -198,5 +198,5 @@
 			width="45"
 			height="45"
 		/>
-	</a>
+	</a>&ensp;&ensp;
 </a>
