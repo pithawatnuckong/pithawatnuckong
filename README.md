@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-- 🔭 I’m currently working on <a href="https://github.com/pithawatnuckong/Clone-Jobify"> Clone-Jobify </a>
+- 🔭 I’m currently working on <a href="https://github.com/pithawatnuckong/Clone-Jobify"> Clone-Jobify </a> AND <a href="https://github.com/panupongkeawkam/solve-for-all">Solve-For-All</a>
 <br />
 - 📫 How to reach me: <a href="mailto:pithawatnuckong@gmail.com"> pithawatnuckong@gmail.com </a>
 <br />
@@ -33,6 +33,13 @@
      width="45"
      height="45" />
 </a>&ensp;&ensp;
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+	<img src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"
+	     alt="nestJs"
+	     width=45
+	     height=45
+	     />
+</a>
 	<br />
 
 <!-- Programming Language-->
@@ -125,13 +132,7 @@
 <br />
 <!-- Backend -->
 <h2>Backend Development:</h2>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-	<img src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"
-	     alt="nestJs"
-	     width=45
-	     height=45
-	     />
-</a>&ensp;&ensp;
+&ensp;&ensp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
