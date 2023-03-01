@@ -1,5 +1,5 @@
 <h1 align="center">Hi <span><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=30 alt="Welcome!" /></span>&nbsp;,&nbsp;I'm Pithawat</h1>
-<h3 align="center">I am a third year student of information technology (IT) at King Mongkut's Institute of Technology Ladkrabang (KMITL)</h3>
+<h3 align="center">I am a third year student of information technology (IT) at King Mongkut's Institute of Technology Ladkrabang (KMITL), looking for cooperative as a Back-end developer</h3>
 <br/>
 
 <p align="center">
