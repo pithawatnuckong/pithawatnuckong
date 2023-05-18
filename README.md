@@ -19,13 +19,6 @@
 	     width="50"
 	     height="50" />
 </a>&ensp;&ensp;
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img
-     src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"
-     alt="opencv"
-     width="40"
-     height="40" />
-</a>&ensp;&ensp;
 <a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&s_kwcid=AL!4422!3!562063379424!e!!g!!aws&ef_id=CjwKCAiAioifBhAXEiwApzCztuXd-QxEQQiepQ_58ClnB9Ils7kTCIOX2U2Fox0WgDASPcKFYkNdFRoCx88QAvD_BwE:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer">
 <img
      src="https://cdn.iconscout.com/icon/free/png-256/amazon-aws-3628617-3029842.png"
@@ -33,13 +26,6 @@
      width="45"
      height="45" />
 </a>&ensp;&ensp;
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-	<img src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"
-	     alt="nestJs"
-	     width=45
-	     height=45
-	     />
-</a>
 	<br />
 
 <!-- Programming Language-->
@@ -165,6 +151,13 @@
 		height="45"
 	/>
 </a>&ensp;&ensp;
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+	<img src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"
+	     alt="nestJs"
+	     width=45
+	     height=45
+	     />
+</a>
 
 <br />
 <!-- Mobile App Development -->
